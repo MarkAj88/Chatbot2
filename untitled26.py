@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1hdJfBZSCIQumKK-mUB7k9EXLYgelg91z
 """
 
-!pip install nltk streamlit
+
 
 import nltk
 nltk.download('punkt')
